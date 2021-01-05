@@ -13,5 +13,6 @@
 
 function some(firstNumber, secondNumber) {
   //your code goes here
-  return;
+  return firstNumber+secondNumber;
 }
+console.log(some(3, 2))
