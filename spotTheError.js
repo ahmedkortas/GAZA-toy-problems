@@ -16,4 +16,4 @@ const factorial = (n) => {
     fact = fact * i;
   }
   return fact;
-};
+}; //
