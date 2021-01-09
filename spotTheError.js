@@ -12,7 +12,7 @@
 
 const factorial = (n) => {
   var fact = 1;
-  for (let i = n - 1; i >= 0; i--) {
+  for (let i = n; i >= 1; i--) {
     fact = fact * i;
   }
   return fact;
