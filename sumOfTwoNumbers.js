@@ -13,5 +13,5 @@
 
 function some(firstNumber, secondNumber) {
   //your code goes here
-  return;
+  return Number(firstNumber+secondNumber);
 }
