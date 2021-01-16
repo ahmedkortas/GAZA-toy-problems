@@ -4,4 +4,8 @@
  *  Write a function named ìsZeroBalanced that returns true if its argument is zero-balanced array,
  *  else return false.
  *  Note that an empty array will not sum to zero.
+ *
+ * zeroBalanced([1,-1,-5,5])=>true
+ * zeroBalanced([0,0,0,0,0,])=>true
+ * zeroBalanced([1,-1,-5,5,100])=>true
  */
